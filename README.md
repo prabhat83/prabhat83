@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhat</h1>
-<h3 align="center">An enthusiastic and results-oriented individual specializing in both micro-service and monolithic architectures from New Zealand</h3>
+<h3 align="center">An enthusiastic and results-oriented individual specializing in both micro-service and monolithic architectures</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhat83&label=Profile%20views&color=0e75b6&style=flat" alt="prabhat83" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prabhat.khera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthew-hook-nz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhat.khera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhat khera" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/2063762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="134702" height="30" width="40" /></a>
 </p>
 
